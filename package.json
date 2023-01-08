@@ -1,0 +1,19 @@
+{
+  "name": "node_example_bogdan",
+  "version": "1.0.0",
+  "description": "const months",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdan-atl/npm.git"
+  },
+  "author": "bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdan-atl/npm/issues"
+  },
+  "homepage": "https://github.com/bogdan-atl/npm#readme"
+}
